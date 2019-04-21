@@ -1,0 +1,2 @@
+# Session-based-Hotel-Recommender-System-
+ In this project,we focus on hotel recommendation. The topic comes from the ACM RecSys Challenge 2019. We will develop a session-based and context-aware recommender system using various input data to provide a list of accommodations that will match the needs of the user from a specific session. User signals within the session can be used to detect the intent of the user and to update the recommendation of accommodations provided to the user. 
